@@ -9,4 +9,4 @@ PKG UPDATE
 PKG UPGRADE 
 
 
-git clone https://github.com/mulatto235/ddos
+git clone https://github.com/mulatto235/DDOS
